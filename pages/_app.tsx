@@ -46,19 +46,19 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Analytics />
 
       <NextSeo
-        title="L RMN  | いつか、私がヒトじゃなくなっても"
+        title="Hansa Dewmina  | ハンサ・デュミナ"
         titleTemplate="Hansa Dewmina"
         defaultTitle="Hansa Dewmina"
         description="Hey! I'm Hansa Dewmina , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
         openGraph={{
           url: "https://hi-lrmn.is-a.dev/",
-          title: "L RMN | いつか、私がヒトじゃなくなっても",
+          title: "Hansa Dewmina  | ハンサ・デュミナ",
           description:
             "Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
           images: [
             {
               url: "https://hi-lrmn.is-a.dev/og-image.png",
-              alt: "L RMN  | いつか、私がヒトじゃなくなっても",
+              alt: "Hansa Dewmina  | ハンサ・デュミナ",
             },
           ],
         }}
