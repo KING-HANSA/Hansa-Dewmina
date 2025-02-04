@@ -374,7 +374,7 @@ export default function Home() {
                 <div className="container mx-auto text-center">
                   Made by TRAGIC in BOGOR
                   <p className="text-gray text-s">
-                    © 2023 L RMN. All rights reserved.
+                    © 2025 Hansa Dewmina. All rights reserved.
                   </p>
                 </div>
               </footer>
