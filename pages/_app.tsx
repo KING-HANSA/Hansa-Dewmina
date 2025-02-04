@@ -47,9 +47,9 @@ function MyApp({ Component, pageProps }: AppProps) {
 
       <NextSeo
         title="L RMN  | いつか、私がヒトじゃなくなっても"
-        titleTemplate="L RMN - Mostly Sleepless"
-        defaultTitle="L RMN  | Mostly Sleepless"
-        description="Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
+        titleTemplate="Hansa Dewmina"
+        defaultTitle="Hansa Dewmina"
+        description="Hey! I'm Hansa Dewmina , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
         openGraph={{
           url: "https://hi-lrmn.is-a.dev/",
           title: "L RMN | いつか、私がヒトじゃなくなっても",
