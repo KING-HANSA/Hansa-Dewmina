@@ -38,12 +38,12 @@ module.exports = {
       },
       {
         source: '/instagram',
-        destination: 'https://instagram.com/romanroman.nya',
+        destination: 'https://www.instagram.com/hansa_dewmina_lk',
         permanent: true,
       },
       {
         source: '/github',
-        destination: 'https://github.com/lrmn7',
+        destination: 'https://github.com/KING-HANSA',
         permanent: true,
       },
       {
