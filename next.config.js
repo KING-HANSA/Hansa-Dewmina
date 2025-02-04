@@ -48,7 +48,7 @@ module.exports = {
       },
       {
         source: '/spotify',
-        destination: 'https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/',
+        destination: 'https://open.spotify.com/artist/5s7jJTs7AML67HYXWjPO2B?si=oex8wb1GQlmMcphhG141AA',
         permanent: true,
       },
       {
