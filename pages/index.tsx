@@ -6,7 +6,7 @@ const name = "Hansa Dewmina";
 const belowLink = "いつか、私がヒトじゃなくなっても";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by tragic";
+const servername = "Made by Dew";
 
 export default function Home() {
   return (
