@@ -3,8 +3,8 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "Hansa Dewmina";
-const belowLink = "いつか、私がヒトじゃなくなっても";
-/*const bio = "Blogger | Dreamer | Observer 🗿";*/
+const belowLink = "ハンサ・デュミナ";
+const bio = "DJ | PRODUCER | ARTIST 🗿";
 
 const servername = "Made by Dew";
 
